@@ -1,0 +1,1 @@
+//write a program to create an array next_ge for an unsorted array arr containing n elements such that next_ge[i]=next greater element of arr[i] in array arr i.e. first greater element on the right of arr[i],-1 if no such element exists.
